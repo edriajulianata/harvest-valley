@@ -1,0 +1,17 @@
+edria
+10092
+-1
+0
+10
+Rumput
+9
+Cacing
+6
+Cacing
+6
+Cacing
+6
+Kol
+12
+Jagung
+16
